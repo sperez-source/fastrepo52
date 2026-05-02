@@ -1,3 +1,7 @@
-# Wawawewa
+# Hello World
 
-This is new content created by Grok.
+```python
+print("Hello, World!")
+```
+
+This is a simple Hello World example in Python.
